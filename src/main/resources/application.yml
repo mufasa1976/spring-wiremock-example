@@ -1,0 +1,4 @@
+logging:
+  level:
+    org.springframework.ws.client.MessageTracing.sent: trace
+    org.springframework.ws.client.MessageTracing.received: trace
